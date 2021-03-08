@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "webpack-node-externals": "^2.5.2"
+  }
+}
